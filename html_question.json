@@ -1,0 +1,78 @@
+[
+    {
+        "question": "George Orwell wrote this book, which is often considered a statement on government oversight",
+        "answer_1": "The Old Man and the Sea",
+        "answer_2": "Catcher and the Rye",
+        "answer_3": "1984",
+        "answer_4": "To Kill a Mockingbird",
+        "correct_answer": "1984"
+    },
+    {
+        "question": "Who was the Prime Minister of the United Kingdom for most of World War II?",
+        "answer_1": "Winston Churchill",
+        "answer_2": "Harold Macmillan",
+        "answer_3": "Neville Chamberlain",
+        "answer_4": "Edward Heath",
+        "correct_answer": "Winston Churchill"
+    },
+    {
+        "question": "In the game &quot;Overwatch,&quot; what are the names of the two Australian criminals from the Junkers faction?",
+        "answer_1": "McCree and Deadeye",
+        "answer_2": "Ana and Pharah",
+        "answer_3": "Roadrat and Junkhog",
+        "answer_4": "Junkrat and Roadhog",
+        "correct_answer": "Junkrat and Roadhog"
+    },
+    {
+        "question": "The term &quot;Spam&quot; came before the food product &quot;Spam&quot;.",
+        "answer_1": "False",
+        "answer_2": "True",
+        "correct_answer": "False"
+    },
+    {
+        "question": "In the TV series Red Dwarf, Kryten&#039;s full name is Kryten 2X4B-523P.",
+        "answer_1": "True",
+        "answer_2": "False",
+        "correct_answer": "True"
+    },
+    {
+        "question": "George Orwell wrote this book, which is often considered a statement on government oversight",
+        "answer_1": "The Old Man and the Sea",
+        "answer_2": "Catcher and the Rye",
+        "answer_3": "1984",
+        "answer_4": "To Kill a Mockingbird",
+        "correct_answer": "1984"
+    },
+    {
+        "question": "Mark Wahlberg played the titular character of which 2008 video-game adaptation?",
+        "answer_1": "Alan Wake",
+        "answer_2": "Max Payne",
+        "answer_3": "Hitman",
+        "answer_4": "God Of War",
+        "correct_answer": "Max Payne"
+    },
+    {
+        "question": "What is the historical name of Sri Lanka?",
+        "answer_1": "Myanmar",
+        "answer_2": "Colombo",
+        "answer_3": "Badulla",
+        "answer_4": "Ceylon",
+        "correct_answer": "Ceylon"
+    },
+    {
+        "question": "Who performed the guitar solo on Michael Jackson&#039;s hit &quot;Beat It&quot;?",
+        "answer_1": "Steve Vai",
+        "answer_2": "Kirk Hammett",
+        "answer_3": "Eddie Van Halen",
+        "answer_4": "Zakk Wylde",
+        "correct_answer": "Eddie Van Halen"
+    },
+    {
+        "question": "What is the name of the fictional retro-mod band starring Austin Powers as the lead vocalist?",
+        "answer_1": "Ming Tea",
+        "answer_2": "Cough Fi",
+        "answer_3": "Spear Mint",
+        "answer_4": "Mister E",
+        "correct_answer": "Ming Tea"
+    },
+]
