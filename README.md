@@ -15,10 +15,10 @@ DONE
 - Check Answer and Hide The Question Then Show Next One
 - Add Class on Bullet After Answering The Question 
 - If Question Finished Show The Result
+- Create Countdown Timer
 
 IN PROGRESS
 
-09 - Create Countdown Timer
 13 - If The Time End, Mark The Question As Wrong and Show Next Question
 
 

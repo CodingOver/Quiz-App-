@@ -7,9 +7,12 @@ let answersArea = document.querySelector('.answers-area');
 let submitButton = document.getElementById('submit-button');
 let answer = document.querySelector('.answer');
 let resultsContainer = document.querySelector('.results');
+let countdownElement = document.querySelector('.countdown');
 // Set Options
 let currentIndex = 0;
 let rightAnswers = 0;
+let countdownInterval;
+
 function getQuestions() {
   let myRequest = new XMLHttpRequest();
     
@@ -22,6 +25,9 @@ function getQuestions() {
         createBullets(qCount);
         // Add Qestion Data
         addQuestionData(questionObject[currentIndex],qCount);
+
+        // Start CountDown
+        countdown(10, qCount);
 
          // Click On Submit
         submitButton.onclick = () => {
@@ -152,5 +158,27 @@ function showResults(count) {
         resultsContainer.style.padding = '10px';
         resultsContainer.style.backgroundColor = 'white';
         resultsContainer.style.margin = '10px'
+    }
+}
+
+function countdown(duration, count) {
+    if(currentIndex < count) {
+        let minutes, seconds;
+        countdownInterval = setInterval(function () {
+            minutes = parseInt(duration / 60);
+            seconds = parseInt(duration % 60);
+            
+            minutes = minutes < 10 ? `0${minutes}` : minutes;
+            seconds = seconds < 10 ? `0${seconds}` : seconds;
+
+            countdownElement.innerHTML = `${minutes}:${seconds}`;
+
+            if (--duration < 0) {
+                clearInterval(countdownInterval);
+                console.log('Finished');
+            }
+
+
+        }, 1000);
     }
 }
