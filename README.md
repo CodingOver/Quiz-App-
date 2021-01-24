@@ -16,11 +16,9 @@ DONE
 - Add Class on Bullet After Answering The Question 
 - If Question Finished Show The Result
 - Create Countdown Timer
+- If The Time End, Mark The Question As Wrong and Show Next Question
 
 IN PROGRESS
-
-13 - If The Time End, Mark The Question As Wrong and Show Next Question
-
 
 Ideas 
 - Many Json Object and Choose Language

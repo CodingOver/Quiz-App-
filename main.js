@@ -52,6 +52,10 @@ function getQuestions() {
             
             // Show Results
             showResults(qCount);
+
+            // Start CountDown
+            clearInterval(countdownInterval);
+            countdown(10, qCount);
         };
 
       }
@@ -175,7 +179,7 @@ function countdown(duration, count) {
 
             if (--duration < 0) {
                 clearInterval(countdownInterval);
-                console.log('Finished');
+                submitButton.click()
             }
 
 
