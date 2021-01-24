@@ -27,14 +27,11 @@
         "question": "The term &quot;Spam&quot; came before the food product &quot;Spam&quot;.",
         "answer_1": "False",
         "answer_2": "True",
+        "answer_3": "Maybe",
+        "answer_4": "Almost",
         "correct_answer": "False"
     },
-    {
-        "question": "In the TV series Red Dwarf, Kryten&#039;s full name is Kryten 2X4B-523P.",
-        "answer_1": "True",
-        "answer_2": "False",
-        "correct_answer": "True"
-    },
+    
     {
         "question": "George Orwell wrote this book, which is often considered a statement on government oversight",
         "answer_1": "The Old Man and the Sea",
@@ -74,5 +71,5 @@
         "answer_3": "Spear Mint",
         "answer_4": "Mister E",
         "correct_answer": "Ming Tea"
-    },
+    }
 ]
