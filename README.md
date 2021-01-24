@@ -1,21 +1,22 @@
 # Quiz-App-
 
-Done
-01 - Create JSON Object For Question
-02 - Start Creating HTML + Styling
-03 - Add Dummy Data
-04 - Create The Styling 
-05 - Fetch Number Of Question From JSON
-06 - Show Question Count + Question Category
-07 - Show The Number Of Bullets Depend On Quesions Count
-08 - Set The Number For The Right & Wrong Answer
-10 - Fetch The Question From The JSON Object
-11 - Show First Question
-12 - Check Answer and Hide The Question Then Show Next One
-14 - Add Class on Bullet After Answering The Question 
-15 - If Question Finished Show The Result
+DONE
 
-In Pregress
+- Create JSON Object For Question
+- Start Creating HTML + Styling
+- Add Dummy Data
+- Create The Styling 
+- Fetch Number Of Question From JSON
+- Show Question Count + Question Category
+- Show The Number Of Bullets Depend On Quesions Count
+- Set The Number For The Right & Wrong Answer
+- Fetch The Question From The JSON Object
+- Show First Question
+- Check Answer and Hide The Question Then Show Next One
+- Add Class on Bullet After Answering The Question 
+- If Question Finished Show The Result
+
+IN PROGRESS
 
 09 - Create Countdown Timer
 13 - If The Time End, Mark The Question As Wrong and Show Next Question
